@@ -1,0 +1,11 @@
+<resources>
+    <color name="bg">#FAF8F3</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text">#1D1B16</color>
+    <color name="text_dim">#6B665C</color>
+    <color name="divider">#E6E1D6</color>
+    <color name="accent">#C8862A</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="widget_bg">#FFF4C9</color>
+    <color name="widget_text">#2A2618</color>
+</resources>

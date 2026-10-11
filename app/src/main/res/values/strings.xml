@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">picoNotes</string>
+    <string name="untitled">Untitled</string>
+    <string name="no_notes">No notes yet.\nTap + to write one.</string>
+    <string name="new_note">+ New note</string>
+    <string name="add_note">Add note</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_note_q">Delete this note?</string>
+    <string name="note_hint">Start typing…</string>
+    <string name="widget_name">Note</string>
+    <string name="widget_description">Pin a note to your home screen. Tap it to edit.</string>
+    <string name="widget_pick_note">Choose a note</string>
+    <string name="widget_note_gone">Note was deleted</string>
+</resources>
